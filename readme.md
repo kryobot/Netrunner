@@ -12,7 +12,6 @@
 - [x] Kontrolle und Schöpfung Erweiterung
 
 ## Spin
-
 - [x] Eröffnung
 - [ ] Zweifel
 - [ ] Mala Tempora
@@ -24,7 +23,6 @@
 - [x] Ehre und Profit Erweiterung
 
 ## Lunar
-
 - [ ] Upstalk
 - [ ] Zwischenräume
 - [ ] Erstkontakt
@@ -32,11 +30,10 @@
 - [ ] Alles was bleibt
 - [ ] Die Quelle
 
-# Ordnung und Chaos
+## Ordnung und Chaos
 - [x] Ordnung und Chaos Erweiterung
 
 ## SanSan
-
 - [ ] Das Valley
 - [ ] Breaker Bay
 - [ ] Chrome City
