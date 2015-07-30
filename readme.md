@@ -13,7 +13,7 @@
 
 ### Genesis
 - [x] Blick nach vorne
-- [ ] Spurensuche
+- [x] Spurensuche
 - [ ] Cyber-Exodus
 - [ ] Eine Studie in Rauschen
 - [x] Im Schatten der Menschheit
@@ -31,7 +31,7 @@
 - [ ] Upstalk
 - [ ] Zwischenräume
 - [ ] Erstkontakt
-- [ ] Mehr als genug
+- [x] Mehr als genug
 - [ ] Alles was bleibt
 - [ ] Die Quelle
 
