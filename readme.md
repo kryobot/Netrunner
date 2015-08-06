@@ -15,7 +15,7 @@
 - [x] Blick nach vorne
 - [x] Spurensuche
 - [ ] Cyber-Exodus
-- [ ] Eine Studie in Rauschen
+- [x] Eine Studie in Rauschen
 - [x] Im Schatten der Menschheit
 - [x] Eine sichere Zukunft
 
@@ -23,7 +23,7 @@
 - [x] Eröffnung
 - [ ] Zweifel
 - [ ] Mala Tempora
-- [ ] Farbe bekennen
+- [x] Farbe bekennen
 - [ ] Angst und Schrecken
 - [ ] Sonderzulage
 
