@@ -28,8 +28,8 @@
 - [ ] Sonderzulage
 
 ### Lunar
-- [ ] Upstalk
-- [ ] Zwischenräume
+- [x] Upstalk
+- [x] Zwischenräume
 - [ ] Erstkontakt
 - [x] Mehr als genug
 - [ ] Alles was bleibt
