@@ -14,7 +14,7 @@
 ### Genesis
 - [x] Blick nach vorne
 - [x] Spurensuche
-- [ ] Cyber-Exodus
+- [x] Cyber-Exodus
 - [x] Eine Studie in Rauschen
 - [x] Im Schatten der Menschheit
 - [x] Eine sichere Zukunft
@@ -24,8 +24,8 @@
 - [ ] Zweifel
 - [ ] Mala Tempora
 - [x] Farbe bekennen
-- [ ] Angst und Schrecken
-- [ ] Sonderzulage
+- [x] Angst und Schrecken
+- [x] Sonderzulage
 
 ### Lunar
 - [x] Upstalk
