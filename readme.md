@@ -1,8 +1,4 @@
 # Netrunner Overview
-## Decks
-
-- [HB "Efficiently Built"](http://netrunnerdb.com/de/decklist/24110/efficiently-built-0-1)
-- [Kate "F&E Kate"](http://netrunnerdb.com/de/decklist/24109/f-e-kate-0-1)
 
 ## Gekaufte Datapacks & Erweiterungen
 
@@ -10,6 +6,7 @@
 - [x] Kontrolle und Schöpfung
 - [x] Ehre und Profit
 - [x] Ordnung und Chaos
+- [x] Daten und Bestimmung
 
 ### Genesis
 - [x] Blick nach vorne
