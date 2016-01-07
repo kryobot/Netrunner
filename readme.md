@@ -21,8 +21,8 @@
 
 ### Spin
 - [x] Eröffnung
-- [ ] Zweifel
-- [ ] Mala Tempora
+- [x] Zweifel
+- [x] Mala Tempora
 - [x] Farbe bekennen
 - [x] Angst und Schrecken
 - [x] Sonderzulage
@@ -30,15 +30,15 @@
 ### Lunar
 - [x] Upstalk
 - [x] Zwischenräume
-- [ ] Erstkontakt
+- [x] Erstkontakt
 - [x] Mehr als genug
-- [ ] Alles was bleibt
+- [x] Alles was bleibt
 - [x] Die Quelle
 
 ### SanSan
 - [x] Das Valley
 - [x] Breaker Bay
 - [x] Chrome City
-- [ ] Underway
-- [ ] Old Hollywood
+- [x] Underway
+- [x] Old Hollywood
 - [ ] Die Welt von morgen
