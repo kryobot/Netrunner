@@ -38,12 +38,17 @@
 - [x] Chrome City
 - [x] Underway
 - [x] Old Hollywood
-- [ ] Die Welt von morgen
+- [x] Die Welt von morgen
  
 ### Mumbad
-- [ ] Kala Ghoda 
-- [ ] Business First
-- [ ] Democracy and Dogma 
+- [x] Kala Ghoda 
+- [x] Das Geschäft geht vor
+- [x] Demokratie und Dogma 
 - [ ] Salsette Island 
-- [ ] The Liberated Mind
-- [ ] Fear the Masses
+- [x] Der befreite Geist
+- [x] Fürchtet die Massen
+
+### Flashpoint Cycle
+- [ ] 23 Seconds
+- [ ] Blood Money
+- [ ] Escalation
