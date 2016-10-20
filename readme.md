@@ -44,11 +44,11 @@
 - [x] Kala Ghoda 
 - [x] Das Geschäft geht vor
 - [x] Demokratie und Dogma 
-- [ ] Salsette Island 
+- [x] Salsette Island 
 - [x] Der befreite Geist
 - [x] Fürchtet die Massen
 
 ### Flashpoint Cycle
-- [ ] 23 Seconds
+- [x] 23 Sekunden
 - [ ] Blood Money
 - [ ] Escalation
