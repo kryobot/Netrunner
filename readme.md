@@ -7,6 +7,7 @@
 - [x] Ehre und Profit
 - [x] Ordnung und Chaos
 - [x] Daten und Bestimmung
+- [ ] Tötliche Direktive
 
 ### Genesis
 - [x] Blick nach vorne
@@ -48,7 +49,16 @@
 - [x] Der befreite Geist
 - [x] Fürchtet die Massen
 
-### Flashpoint Cycle
+### Flashpoint
 - [x] 23 Sekunden
 - [ ] Blood Money
 - [ ] Escalation
+- [ ] Intervention
+- [ ] Martial Law
+- [ ] Quorum
+
+### Roter Sand
+- [ ] Daedalus-Komplex
+- [ ] Station One
+- [ ] Erdenkind 
+- [ ] Blut und Wasser
